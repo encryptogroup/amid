@@ -21,4 +21,4 @@ Further information by AWS for manual protection:
   * AWS Security Bulletin (June 4, 2011): [Reminder about Safely Sharing and Using Public AMIs](http://aws.amazon.com/security/security-bulletins/reminder-about-safely-sharing-and-using-public-amis/)
   * AWS Tutorial (June 7, 2011): [How To Share and Use Public AMIs in A Secure Manner](http://aws.amazon.com/articles/0155828273219400)
 
-(c) 2011 by Thomas Poeppelmann <thomas.poeppelmann@rub.de> and Thomas Schneider <thomas.schneider@ec-spride.de>
+(c) 2011 by Thomas Poeppelmann (thomas.poeppelmann@rub.de) and Thomas Schneider (thomas.schneider@ec-spride.de)
